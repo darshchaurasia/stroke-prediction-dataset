@@ -2,13 +2,13 @@
 type: Dataset
 title: Stroke Prediction Dataset
 description: CSV dataset reference for notebook analysis, including observed columns, categories, and missing values.
-resource: https://github.com/darshchaurasia/Stroke-Prediction-Dataset-for-Google-Collab-Viewers-Pls-Ignore
+resource: https://github.com/darshchaurasia/stroke-prediction-dataset
 tags:
 - dataset
 - csv
 - notebooks
 sources:
-- resource: https://github.com/darshchaurasia/Stroke-Prediction-Dataset-for-Google-Collab-Viewers-Pls-Ignore/blob/50524fd7f8861c2415782d5df93b7fe507147f0f/healthcare-dataset-stroke-data.csv
+- resource: https://github.com/darshchaurasia/stroke-prediction-dataset/blob/50524fd7f8861c2415782d5df93b7fe507147f0f/healthcare-dataset-stroke-data.csv
   title: healthcare-dataset-stroke-data.csv
 ---
 
